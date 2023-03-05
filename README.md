@@ -1,6 +1,6 @@
 # WPF Pong Game
 
-This is a simple implementation of the classic game Pong using Windows Presentation Foundation (WPF) in C#. The game allows one player to control a paddle on the left side of the screen using the 'W' and 'S' keys, while the other player is controlled by the computer. The aim of the game is to hit the ball with the paddle and prevent it from crossing to the opponent's side.
+This is a simple implementation of the classic game Pong using Windows Presentation Foundation (WPF) in C#. The game allows one player to control a paddle on the left side of the screen using the `W` and `S` keys, while the other player is controlled by the computer. The aim of the game is to hit the ball with the paddle and prevent it from crossing to the opponent's side.
 
 ## Requirements
 
